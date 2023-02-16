@@ -10,7 +10,7 @@ Welcome to the 2023 NASA Openscapes Champions Cohort! This is a Cohort for resea
 
 We will meet as a Cohort via Zoom five times over two months for 1.5 hours on five Wednesdays starting April 19, 2023:
 
-- **Dates: April 19, May 3, 17, 31, June 14 7, 21** 
+- **Dates: April 19, May 3, 17, 31, June 14** 
 - **Times: 10:00am - 11:30pm PT**
 - **Location: Remotely, via Zoom**
 
@@ -53,5 +53,5 @@ NASA DAAC Mentors assisting:
 * **[Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160)** (Lowndes et al 2017, _Nature Ecology & Evolution_) - this paper greatly influences the whole Champions program and we’ll ask that everyone participating reads it before our first Cohort Call on JUNE 30. 
 * **[Openscapes: Better Science for Future Us](https://docs.google.com/presentation/d/1HGw4P095-lblHiGQHXYidHiVysjrPxuojxTxKtE13vk/edit#slide=id.ge2b7c2f974_0_2017)** - 2021 plenary talk at the Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE) inaugural conference 
 * **[Openscapes embraces kindness and inclusion in open science](https://sparcopen.org/impact-story/openscapes-embraces-kindness-and-inclusion-of-open-science/)** - 2021 article about Openscapes
-* **[openscapes.org](https://openscapes.org/)** – Openscapes is operated at the National Center for Ecological Analysis & Synthesis, UC Santa Barbara
+* **[openscapes.org](https://openscapes.org/)**
 
