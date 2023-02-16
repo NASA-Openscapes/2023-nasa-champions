@@ -34,7 +34,7 @@ Coworking sessions are where we work at the same time together. Sometimes, this 
 
 ## Participating teams
 
-Upcoming: These are the teams participating: please add any edits directly (we'll learn how in our GitHub Clinic!) https://github.com/NASA-Openscapes/2022-nasa-champions#participating-teams
+Upcoming: These are the teams participating: please add any edits directly (we'll learn how in our GitHub Clinic!) <https://github.com/NASA-Openscapes/2022-nasa-champions#participating-teams>
 
 ## Openscapes team
 
