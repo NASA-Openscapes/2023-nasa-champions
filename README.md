@@ -2,7 +2,8 @@
 
 # 2023 NASA Openscapes Champions Cohort 
 
-Welcome to the 2023 NASA Openscapes Champions Cohort! This is a Cohort for research teams using NASA Earthdata and transitioning workflows to the Cloud. This is part of NASA Openscapes: <https://nasa-openscapes.github.io>. Learn more about Openscapes and the Champions Program: <https://openscapes.org>. 
+Welcome to the 2023 NASA Openscapes Champions Cohort! This is a Cohort for research teams using NASA Earthdata to learn open science practices and spend time experimenting and planning what their analytical workflows with NASA Earthdata look like in the Cloud. This is part of NASA Openscapes: <https://nasa-openscapes.github.io>. Learn more about Openscapes and the Champions Program: <https://openscapes.org>. 
+
 
 <img align="right" src="horst-champions-trailhead.png" width="450">  
 
@@ -18,10 +19,10 @@ Agendas are accessible to Cohort participants in our Cohort Google Drive Folder;
 
 Date | Cohort Call Topics          | Series Chapters |      Seaside Chat Topics
 ----| ------------------|----------------------|--------------------------------
-04/19 | 1. Openscapes mindset | [mindset](https://openscapes.github.io/series/mindset), [better science in less time](https://openscapes.github.io/series/better-science.html) | Pathway trailhead; create GitHub accounts 
-05/03 | 2. GitHub Clinic: publishing and project management <br> | [publishing](https://openscapes.github.io/series/github-pub), [project management](https://openscapes.github.io/series/github-issues) | Shared organizing with GitHub
-05/17 | 3. Team culture and data strategies for future us | [team culture](https://openscapes.github.io/series/team-culture), [data strategies](https://openscapes.github.io/series/data-strategies) | Onboarding documentation 
-05/31 | 4. Open communities and coding strategies for future us | [coding with communities](https://openscapes.github.io/series/communities), [coding strategies](https://openscapes.github.io/series/coding-strategies) | Pathways preparation
+04/19 | 1. Openscapes mindset, Better science in less time | [mindset](https://openscapes.github.io/series/mindset), [better science in less time](https://openscapes.github.io/series/better-science.html) | Pathway trailhead; explore Cheatsheets
+05/03 | 2. Team culture and data strategies for future us | [team culture](https://openscapes.github.io/series/team-culture), [data strategies](https://openscapes.github.io/series/data-strategies) | Exploring NASA Earthdata Cloud
+05/17 | 3. Open communities and coding strategies for future us | [coding with communities](https://openscapes.github.io/series/communities), [coding strategies](https://openscapes.github.io/series/coding-strategies) | Pathway next steps; create GitHub accounts 
+05/31 | 4. JupyterHub Clinic |  | Pathways preparation
 06/14 | 5. Pathways share |  | 
 
 **Cohort Call Digests** are posted as issues in this repo.
@@ -42,10 +43,12 @@ Upcoming: These are the teams participating: please add any edits directly (we'l
 
 **Julie Lowndes** (@jules32), NASA-Openscapes
 
+**Stefanie Butland** (@stefaniebutland), Openscapes
+
 
 NASA DAAC Mentors assisting:
 
-- list
+- upcoming
 
 
 ## More about Openscapes and the Champions program:
