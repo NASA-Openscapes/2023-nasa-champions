@@ -20,9 +20,9 @@ Agendas are accessible to Cohort participants in our Cohort Google Drive Folder;
 Date | Cohort Call Topics          | Series Chapters |      Seaside Chat Topics
 ----| ------------------|----------------------|--------------------------------
 04/19 | 1. Openscapes mindset, Better science in less time | [mindset](https://openscapes.github.io/series/mindset), [better science in less time](https://openscapes.github.io/series/better-science.html) | Pathway trailhead; explore Cheatsheets
-05/03 | 2. Team culture and data strategies for future us | [team culture](https://openscapes.github.io/series/team-culture), [data strategies](https://openscapes.github.io/series/data-strategies) | Exploring NASA Earthdata Cloud
+05/03 | 2. Team culture and data strategies for future us | [team culture](https://openscapes.github.io/series/team-culture), data strategies lesson from NASA Mentors | Exploring NASA Earthdata Cloud
 05/17 | 3. Open communities and coding strategies for future us | [coding with communities](https://openscapes.github.io/series/communities), [coding strategies](https://openscapes.github.io/series/coding-strategies) | Pathway next steps; create GitHub accounts 
-05/31 | 4. JupyterHub Clinic |  | Pathways preparation
+05/31 | 4. JupyterHub Clinic, hands-on lesson from NASA Mentors |  | Pathways preparation
 06/14 | 5. Pathways share |  | 
 
 **Cohort Call Digests** are posted as issues in this repo.
