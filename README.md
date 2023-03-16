@@ -15,7 +15,7 @@ We will meet as a Cohort via Zoom five times over two months for 1.5 hours on fi
 - **Times: 10:00am - 11:30pm PT**
 - **Location: Remotely, via Zoom**
 
-Agendas are accessible to Cohort participants in our Cohort Google Drive Folder; they are also an archive of our live google-docing. Please see <https://openscapes.org/series> to view blank versions of the agendas. 
+Agendas are accessible to Cohort participants in our [Cohort Google Drive Folder](https://drive.google.com/drive/folders/1hAge8k2z9OvXB7c2nEg_BQA36Fc1cRLk?usp=sharing); they are also an archive of our live google-docing. Please see <https://openscapes.org/series> to view blank versions of the agendas. 
 
 Date | Cohort Call Topics          | Series Chapters |      Seaside Chat Topics
 ----| ------------------|----------------------|--------------------------------
