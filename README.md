@@ -12,17 +12,17 @@ Welcome to the 2023 NASA Openscapes Champions Cohort! This is a Cohort for resea
 We will meet as a Cohort via Zoom five times over two months for 1.5 hours on five Wednesdays starting April 19, 2023:
 
 - **Dates: April 19, May 3, 17, 31, June 14** 
-- **Times: 10:00am - 11:30pm PT**
+- **Times: 10:00 - 11:30am PT**
 - **Location: Remotely, via Zoom**
 
 Agendas are accessible to Cohort participants in our [Cohort Google Drive Folder](https://drive.google.com/drive/folders/1hAge8k2z9OvXB7c2nEg_BQA36Fc1cRLk?usp=sharing); they are also an archive of our live google-docing. Please see <https://openscapes.org/series> to view blank versions of the agendas. 
 
-Date | Cohort Call Topics          | Series Chapters |      Seaside Chat Topics
+Date | Cohort Call Topics          | Series Chapters |      Guest Teachers
 ----| ------------------|----------------------|--------------------------------
-04/19 | 1. Openscapes mindset, Better science in less time | [mindset](https://openscapes.github.io/series/mindset), [better science in less time](https://openscapes.github.io/series/better-science.html) | Pathway trailhead; explore Cheatsheets
-05/03 | 2. Team culture and data strategies for future us | [team culture](https://openscapes.github.io/series/team-culture), data strategies lesson from NASA Mentors | Exploring NASA Earthdata Cloud
-05/17 | 3. Open communities and coding strategies for future us | [coding with communities](https://openscapes.github.io/series/communities), [coding strategies](https://openscapes.github.io/series/coding-strategies) | Pathway next steps; create GitHub accounts 
-05/31 | 4. JupyterHub Clinic, hands-on lesson from NASA Mentors |  | Pathways preparation
+04/19 | 1. Openscapes mindset, Better science in less time | [mindset](https://openscapes.github.io/series/mindset), [better science in less time](https://openscapes.github.io/series/better-science.html) | [Jinbo Wang](https://science.jpl.nasa.gov/people/jwang2/) (Caltech/JPL), [Allan Just](https://profiles.mountsinai.org/allan-just) (Mount Sinai)
+05/03 | 2. Team culture and data strategies for future us | [team culture](https://openscapes.github.io/series/team-culture), data strategies for cloud | [Andy Barrett](https://nsidc.org/about/our-people/Andrew_Barrett), NSIDC
+05/17 | 3. Open communities and coding strategies for future us | [open communities](https://openscapes.github.io/series/communities), coding strategies for cloud | [Ryan Abernathy](https://ocean-transport.github.io/) (Earthmover, Columbia U)
+05/31 | 4. JupyterHub Clinic, hands-on lesson from NASA Mentors |  | [Amy Steiker](https://www.linkedin.com/in/amy-steiker-04088448), NSIDC
 06/14 | 5. Pathways share |  | 
 
 **Cohort Call Digests** are posted as issues in this repo.
