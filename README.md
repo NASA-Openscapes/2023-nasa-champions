@@ -22,7 +22,7 @@ Date | Cohort Call Topics          | Series Chapters |      Guest Teachers
 04/19 | 1. Openscapes mindset, Better science in less time | [mindset](https://openscapes.github.io/series/mindset), [better science in less time](https://openscapes.github.io/series/better-science.html) | [Jinbo Wang](https://science.jpl.nasa.gov/people/jwang2/) (Caltech/JPL), [Allan Just](https://profiles.mountsinai.org/allan-just) (Mount Sinai)
 05/03 | 2. Team culture and data strategies for future us | [team culture](https://openscapes.github.io/series/team-culture), data strategies for cloud | [Andy Barrett](https://nsidc.org/about/our-people/Andrew_Barrett), NSIDC
 05/17 | 3. Open communities and coding strategies for future us | [open communities](https://openscapes.github.io/series/communities), coding strategies for cloud | [Ryan Abernathy](https://ocean-transport.github.io/) (Earthmover, Columbia U)
-05/31 | 4. JupyterHub Clinic, hands-on lesson from NASA Mentors |  | [Amy Steiker](https://www.linkedin.com/in/amy-steiker-04088448), NSIDC
+05/31 | 4. NASA Earthdata Cloud Clinic, hands-on lesson from NASA Mentors |  | [Amy Steiker](https://www.linkedin.com/in/amy-steiker-04088448), NSIDC
 06/14 | 5. Pathways share |  | 
 
 **Cohort Call Digests** are posted as issues in this repo.
