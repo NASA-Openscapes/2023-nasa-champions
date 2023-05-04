@@ -20,7 +20,7 @@ Agendas are accessible to Cohort participants in our [Cohort Google Drive Folder
 Date | Cohort Call Topics          | Series Chapters |      Guest Teachers
 ----| ------------------|----------------------|--------------------------------
 04/19 | 1. Openscapes mindset, Better science in less time | [mindset](https://openscapes.github.io/series/mindset), [better science in less time](https://openscapes.github.io/series/better-science.html) | [Jinbo Wang](https://science.jpl.nasa.gov/people/jwang2/) (Caltech/JPL), [Allan Just](https://profiles.mountsinai.org/allan-just) (Mount Sinai)
-05/03 | 2. Team culture and data strategies for future us | [team culture](https://openscapes.github.io/series/team-culture), data strategies for cloud | [Andy Barrett](https://nsidc.org/about/our-people/Andrew_Barrett), NSIDC
+05/03 | 2. Team culture and data strategies for future us | [team culture](https://openscapes.github.io/series/team-culture), [Data strategies for cloud](https://nsidc.github.io/data_strategies_for_future_us/data_strategies_slides#/title-slide) | [Andy Barrett](https://nsidc.org/about/our-people/Andrew_Barrett), NSIDC
 05/17 | 3. Open communities and coding strategies for future us | [open communities](https://openscapes.github.io/series/communities), coding strategies for cloud | [Ryan Abernathy](https://ocean-transport.github.io/) (Earthmover, Columbia U)
 05/31 | 4. NASA Earthdata Cloud Clinic, hands-on lesson from NASA Mentors |  | [Amy Steiker](https://www.linkedin.com/in/amy-steiker-04088448), NSIDC
 06/14 | 5. Pathways share |  | 
@@ -30,7 +30,7 @@ Date | Cohort Call Topics          | Series Chapters |      Guest Teachers
 
 ## Coworking times (optional)
 
-Coworking sessions are where we work at the same time together. Sometimes, this means quiet work with check-ins to break up focused work and get feedback, and sometimes this involves asking questions and screensharing to learn and problem solve. Coworking for 1 hour in the weeks between Cohort Calls - day and times tbd.
+Coworking sessions are where we work at the same time together. Sometimes, this means quiet work with check-ins to break up focused work and get feedback, and sometimes this involves asking questions and screensharing to learn and problem solve. Coworking in the weeks between Cohort Calls - May 11, 25, June 8. 10-11:30 PT - alternating Thursdays.
 
 
 ## Participating teams
@@ -48,7 +48,16 @@ Upcoming: These are the teams participating: please add any edits directly (we'l
 
 NASA DAAC Mentors assisting:
 
-- upcoming
+- Andy Barrett, NSIDC DAAC
+- Alexis Hunzinger, GES DISC
+- Bri Lind, LP DAAC
+- Cassie Nickles, PODAAC
+- Celia Ou, PODAAC
+- Sargent Shriver, ASF DAAC
+- Amy Steiker, NSIDC DAAC
+- Catalina Oaida Taglialatela, PODAAC
+- Michele Thornton, ORNL DAAC
+- Jess Welch, ORNL DAAC
 
 
 ## More about Openscapes and the Champions program:
