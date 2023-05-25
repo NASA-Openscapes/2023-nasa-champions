@@ -25,7 +25,7 @@ Date | Cohort Call Topics          | Series Chapters |      Guest Teachers
 05/31 | 4. NASA Earthdata Cloud Clinic, hands-on lesson from NASA Mentors |  | [Amy Steiker](https://www.linkedin.com/in/amy-steiker-04088448), NSIDC
 06/14 | 5. Pathways share |  | 
 
-**Cohort Call Digests** are posted as issues in this repo.
+**Cohort Call Digests** are posted as [Discussions](https://github.com/NASA-Openscapes/2023-nasa-champions/discussions) in this repo.
 
 
 ## Coworking times (optional)
