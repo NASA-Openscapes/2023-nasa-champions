@@ -60,17 +60,17 @@ Coworking sessions are where we work at the same time together. Sometimes, this 
 
 **NASA Openscapes Mentors** assisting:
 
+- Amy Steiker, NSIDC DAAC
 - Andy Barrett, NSIDC DAAC
 - Alexis Hunzinger, GES DISC
 - Bri Lind, LP DAAC
 - Cassie Nickles, PODAAC
-- Celia Ou, PODAAC
-- Sargent Shriver, ASF DAAC
-- Amy Steiker, NSIDC DAAC
 - Catalina Oaida Taglialatela, PODAAC
-- Michele Thornton, ORNL DAAC
+- Celia Ou, PODAAC
+- Chris Battisto, GES DISC
 - Jess Welch, ORNL DAAC
-
+- Michele Thornton, ORNL DAAC
+- Sargent Shriver, ASF DAAC
 
 ## More about Openscapes and the Champions program:
 
