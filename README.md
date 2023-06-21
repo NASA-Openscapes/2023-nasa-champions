@@ -19,11 +19,11 @@ Agendas are accessible to Cohort participants in our [Cohort Google Drive Folder
 
 Date | Cohort Call Topics          | Series Chapters |      Guest Teachers
 ----| ------------------|----------------------|--------------------------------
-04/19 | 1. Openscapes mindset, Better science in less time | [mindset](https://openscapes.github.io/series/mindset), [better science in less time](https://openscapes.github.io/series/better-science.html) | [Jinbo Wang](https://science.jpl.nasa.gov/people/jwang2/) (Caltech/JPL), [Allan Just](https://profiles.mountsinai.org/allan-just) (Mount Sinai)
+04/19 | 1. Openscapes mindset, Better science in less time | [mindset](https://openscapes.github.io/series/mindset), [better science in less time](https://openscapes.github.io/series/better-science.html) | [Jinbo Wang](https://science.jpl.nasa.gov/people/jwang2/), Caltech/JPL; [Allan Just](https://profiles.mountsinai.org/allan-just), Mount Sinai
 05/03 | 2. Team culture and data strategies for future us | [team culture](https://openscapes.github.io/series/team-culture), [data strategies for cloud](https://nsidc.github.io/data_strategies_for_future_us/data_strategies_slides#/title-slide) | [Andy Barrett](https://nsidc.org/about/our-people/Andrew_Barrett), NSIDC
 05/17 | 3. Open communities and coding strategies for future us | [open communities](https://openscapes.github.io/series/communities), coding strategies for cloud | [Amy Steiker](https://www.linkedin.com/in/amy-steiker-04088448), [Luis Lopez](https://www.linkedin.com/in/betolink/), NSIDC
 05/31 | 4. NASA Earthdata Cloud Clinic, hands-on lesson from NASA Mentors |  | [Amy Steiker](https://www.linkedin.com/in/amy-steiker-04088448), NSIDC
-06/14 | 5. Pathways share |  | 
+06/14 | 5. Pathways share | [Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/)  | [Cassie Nickles](https://scienceandtechnology.jpl.nasa.gov/cassandra-nickles), PO.DAAC 
 
 **Cohort Call Digests** are posted as [Discussions](https://github.com/NASA-Openscapes/2023-nasa-champions/discussions) in this repo.
 
